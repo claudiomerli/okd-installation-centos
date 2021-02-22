@@ -21,7 +21,7 @@ export OKD_INFRA_NODE_1_HOSTNAME=okd-infra-node-1
 #By default we can login using the URL https://console.okd.nip.io:8443
 #To access URL from your local system we need to configure master host in C:\Windows\System32\drivers\etc\hosts file as below
 #100.10.10.100  console.okd.nip.io
-export DOMAIN=34.123.66.101.nip.io
+export DOMAIN=35.193.134.243.nip.io
 export API_PORT=8443
 
 #OKD Login Credentials
